@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Errors {
-
+ 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean continueInput = true;
