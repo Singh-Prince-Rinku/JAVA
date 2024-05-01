@@ -29,7 +29,6 @@ public class Errors {
                 System.out.println("Attempt to enter age completed.");
             }
         }
-
         scanner.close();
         System.out.println("Program ended.");
     }
